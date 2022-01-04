@@ -5,6 +5,6 @@ Projeto desenvolvido durante o desafio do curso de Sintaxe Básica em JavaScript
 É uma calculadora que realiza as seguintes operações: soma, subtração, multiplicação, divisão, resto da divisão e potenciação.
 
 ## Instruções de uso
-Dado o conjunto OPERAÇÕES = {1, 2, 3, 4, 5, 6, 7}, o usuário deverá informar um valor pertecente ao conjunto que irá representar as seguintes ações operação de soma, operação de subtração, operação de multiplicação, operação de divisão, cálculo do resto da divisão, cálculo com potências e sair da calculadora, respectivamente.
+Dado o conjunto OPERAÇÕES = {1, 2, 3, 4, 5, 6, 7}, o usuário deverá informar um valor pertencente a este conjunto que irá representar as seguintes ações operação de soma, operação de subtração, operação de multiplicação, operação de divisão, cálculo do resto da divisão, cálculo com potências e sair da calculadora, respectivamente.
 Em seguida, deverá informar o primeiro operando e, logo após, o segundo operando.
 Feito isso, o resultado será exibido.
